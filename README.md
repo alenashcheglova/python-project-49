@@ -10,3 +10,6 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=alenashcheglova_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=alenashcheglova_python-project-49)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=alenashcheglova_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=alenashcheglova_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=alenashcheglova_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=alenashcheglova_python-project-49)
+
+#asciinema_even
+https://asciinema.org/a/CejwGZbZL3xwRC8mqoOqTGzAc
