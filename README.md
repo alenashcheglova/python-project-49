@@ -13,3 +13,12 @@
 
 #asciinema_even
 https://asciinema.org/a/CejwGZbZL3xwRC8mqoOqTGzAc
+
+#asciinems_calc
+https://asciinema.org/a/dsRE1ATi9vdGqi0d
+
+#asciinema_gcd
+https://asciinema.org/a/qsVHz3ZiZ2CRGwqA
+
+
+
