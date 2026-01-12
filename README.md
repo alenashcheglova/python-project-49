@@ -12,13 +12,23 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=alenashcheglova_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=alenashcheglova_python-project-49)
 
 #asciinema_even
+#game1.cast
 https://asciinema.org/a/CejwGZbZL3xwRC8mqoOqTGzAc
 
 #asciinems_calc
+#game2.cast
 https://asciinema.org/a/dsRE1ATi9vdGqi0d
 
 #asciinema_gcd
+#game3.cast
 https://asciinema.org/a/qsVHz3ZiZ2CRGwqA
 
+#asciinema_progression
+#game4.cast
+https://asciinema.org/a/HyMtTyafiPkkeEn7
+
+#asciinema_prime
+#game5.cast
+https://asciinema.org/a/jdZuMbqRHhIGHfTy
 
 

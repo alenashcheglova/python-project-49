@@ -1,9 +1,11 @@
 import random
 GAME_SCRIPT = 'What is the result of the expression?'
+MIN_NUMBER = 1
+MAX_NUMBER = 100
 
 def get_quest_and_answ():
-    num1 = random.randint(1, 100)
-    num2 = random.randint(1, 100)
+    num1 = random.randint(MIN_NUMBER, MAX_NUMBER)
+    num2 = random.randint(MIN_NUMBER, MAX_NUMBER)
     operator = random.choice(['+', '-', '*'])
     match operator:
         case '+':
