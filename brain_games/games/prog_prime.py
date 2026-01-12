@@ -4,6 +4,7 @@ GAME_SCRIPT = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 MIN_NUMBER = 1
 MAX_NUMBER = 100
 
+
 def is_prime(num):
     if num <= 1:
         return False
@@ -11,6 +12,7 @@ def is_prime(num):
         if num % i == 0:
             return False
     return True
+
 
 def get_quest_and_answ():
     num = random.randint(MIN_NUMBER, MAX_NUMBER)

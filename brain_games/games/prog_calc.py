@@ -1,7 +1,9 @@
 import random
+
 GAME_SCRIPT = 'What is the result of the expression?'
 MIN_NUMBER = 1
 MAX_NUMBER = 100
+
 
 def get_quest_and_answ():
     num1 = random.randint(MIN_NUMBER, MAX_NUMBER)

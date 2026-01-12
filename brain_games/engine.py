@@ -1,6 +1,6 @@
 import prompt
-from brain_games.constants import ROUNDS
 
+from brain_games.constants import ROUNDS
 
 
 def run(game):
