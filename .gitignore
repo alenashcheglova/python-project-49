@@ -8,3 +8,5 @@ __pycache__/
 *.cast
 uv.lock
 *.egg-info/
+.python-version
+main.py
