@@ -31,4 +31,7 @@ https://asciinema.org/a/HyMtTyafiPkkeEn7
 #game5.cast
 https://asciinema.org/a/jdZuMbqRHhIGHfTy
 
+#asciinema_brain_games_final
+#game6.cast
+https://asciinema.org/a/FQjDlUFDLaALgNRy
 
